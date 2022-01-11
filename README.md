@@ -3,7 +3,7 @@
 - Adam Pierson (he/him)
 - Senior Software Engineer @ [JupiterOne](https://jupiterone.com/)
 - Find me on [Linkedin](https://linkedin.com/in/adam-pierson-633900114)
-- Exoerience with:
+- Experience with:
   - C++
   - Typescript
   - Python
