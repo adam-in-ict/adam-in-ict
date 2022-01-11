@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- Adam Pierson (he/him)
+- Senior Software Engineer @ [JupiterOne](https://jupiterone.com/)
+- Find me on [Linkedin](https://linkedin.com/in/adam-pierson-633900114)
+- Exoerience with:
+  - C++
+  - Typescript
+  - Python
+  - Lua
+  - Other languages I'm less willing to admit to. 😄
+- Neo4j Certified Professional
 <!--
 **adam-in-ict/adam-in-ict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
