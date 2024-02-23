@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Adam Pierson (he/him)
-- Senior Software Engineer @ [JupiterOne](https://jupiterone.com/)
+- Senior Software Engineer
 - Find me on [Linkedin](https://linkedin.com/in/adam-pierson-633900114)
 - Experience with:
   - C++
